@@ -1,0 +1,15 @@
+[submodule "lab2"]
+	path = lab2
+	url = git@github.com:ericchen321/CPSC-261-lab-2.git
+[submodule "lab3"]
+	path = lab3
+	url = git@github.com:ericchen321/CPSC-261-lab-3.git
+[submodule "lab4"]
+	path = lab4
+	url = git@github.com:ericchen321/CPSC-261-lab-4.git
+[submodule "lab5"]
+	path = lab5
+	url = git@github.com:ericchen321/CPSC-261-lab-5.git
+[submodule "lab6"]
+	path = lab6
+	url = git@github.com:ericchen321/CPSC-261-lab-6.git
